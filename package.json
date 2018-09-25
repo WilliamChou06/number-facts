@@ -1,0 +1,13 @@
+{
+  "name": "number-facts",
+  "version": "1.0.0",
+  "description": "using api to display number facts",
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "William Chou",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^10.0.2"
+  }
+}
